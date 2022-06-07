@@ -1,0 +1,13 @@
+:root{
+    --primary-color:grey;
+}
+.dark-theme{
+    --primary-color:#000106;
+}
+
+body{
+background: var(--primary-color);
+}
+#icon{
+cursor:pointer;
+}
